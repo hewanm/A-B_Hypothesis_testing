@@ -1,0 +1,9 @@
+[core]
+    remote = storage
+    autostage = true
+['remote "localstorage"']
+    url = ../data
+['remote "local"']
+    url = ../data
+['remote "storage"']
+    url = gdrive://1Q_dN0gQXFBi306idYvOIOLgoKBEKU-eP
